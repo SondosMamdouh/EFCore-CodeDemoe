@@ -1,0 +1,9 @@
+C:\Users\Sondos.Mamdouh\source\repos\SamuraiApp\SamuraoApp.Domain\bin\Debug\netstandard2.0\SamuraoApp.Domain.deps.json
+C:\Users\Sondos.Mamdouh\source\repos\SamuraiApp\SamuraoApp.Domain\bin\Debug\netstandard2.0\SamuraoApp.Domain.dll
+C:\Users\Sondos.Mamdouh\source\repos\SamuraiApp\SamuraoApp.Domain\bin\Debug\netstandard2.0\SamuraoApp.Domain.pdb
+C:\Users\Sondos.Mamdouh\source\repos\SamuraiApp\SamuraoApp.Domain\obj\Debug\netstandard2.0\SamuraoApp.Domain.csprojAssemblyReference.cache
+C:\Users\Sondos.Mamdouh\source\repos\SamuraiApp\SamuraoApp.Domain\obj\Debug\netstandard2.0\SamuraoApp.Domain.AssemblyInfoInputs.cache
+C:\Users\Sondos.Mamdouh\source\repos\SamuraiApp\SamuraoApp.Domain\obj\Debug\netstandard2.0\SamuraoApp.Domain.AssemblyInfo.cs
+C:\Users\Sondos.Mamdouh\source\repos\SamuraiApp\SamuraoApp.Domain\obj\Debug\netstandard2.0\SamuraoApp.Domain.dll
+C:\Users\Sondos.Mamdouh\source\repos\SamuraiApp\SamuraoApp.Domain\obj\Debug\netstandard2.0\SamuraoApp.Domain.pdb
+C:\Users\Sondos.Mamdouh\source\repos\SamuraiApp\SamuraoApp.Domain\obj\Debug\netstandard2.0\SamuraoApp.Domain.csproj.CoreCompileInputs.cache
